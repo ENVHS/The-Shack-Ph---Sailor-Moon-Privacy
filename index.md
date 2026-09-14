@@ -50,7 +50,7 @@ Information may be processed by service providers when required to operate certa
 
 Users and Discord server administrators may request removal of data associated with them or their server.
 
-To request deletion or ask a privacy-related question, contact the Sailor Moon bot administrator through the Discord server where Sailor Moon is available.
+To request deletion or ask a privacy-related question, contact the Sailor Moon bot administrator through the Discord server where Sailor Moon is available or by email theshackph0622@gmail.com
 
 ## Discord
 
